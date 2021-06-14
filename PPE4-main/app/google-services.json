@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668825739285",
+    "project_id": "gsb-app-hitema",
+    "storage_bucket": "gsb-app-hitema.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668825739285:android:002acd5634e8c2f59eae1c",
+        "android_client_info": {
+          "package_name": "fr.gsb.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668825739285-i6ghnmfeqla6iibtvsfnrutp2a1o34aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7RdowCjP9U2imqJZ8tvlGNVGB248_58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668825739285-i6ghnmfeqla6iibtvsfnrutp2a1o34aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
